@@ -1,0 +1,12 @@
+Objective
+Build API gateway and Lambdas on committing swagger file
+
+To do
+Trigger a Lambda on git commit
+
+
+In-progress
+
+
+
+Done
